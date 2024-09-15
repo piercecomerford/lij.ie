@@ -1,0 +1,51 @@
+baseURL = 'https://lij.ie/'
+languageCode = 'en-us'
+title = 'Lego Indiana Jones (band)'
+theme = 'typo'
+description = 'The official website of Dublin pop band Lego Indiana Jones'
+
+[[params.social]]
+name = "bandcamp"
+url = "https://legoindianajones.bandcamp.com"
+
+[[params.social]]
+name = "spotify"
+url = "https://open.spotify.com/artist/4kSlDSUfJMz24drOmgQ3r9"
+
+[[params.social]]
+name = "applemusic"
+url = "https://music.apple.com/ca/artist/lego-indiana-jones/1718641360"
+
+[[params.social]]
+name = "youtube"
+url = "https://www.youtube.com/watch?v=1-pNpEDRENI"
+
+[[params.social]]
+name = "tidal"
+url = "https://listen.tidal.com/artist/44093770"
+
+[[params.social]]
+name = "deezer"
+url = "https://www.deezer.com/en/artist/244939072"
+
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/legoindianajones.nds"
+
+[params]
+homeIntroContent = """
+[![hope all well](/images/folder.png)](https://legoindianajones.bandcamp.com/album/hope-all-well)
+
+Our fantastical album _Hope All Well_ is now out in the world for all to listen to and enjoy goodbye!
+
+LEGO® is a trademark of the LEGO® Group of companies which does not sponsor, authorize or endorse this band.
+
+INDIANA JONES is a trademark of LUCASFILM LTD. LLC. which also does not sponsor, authorize or endorse this band. 
+
+"""
+
+homeCollectionTitle = 'posts'
+homeCollection = 'posts'
+
+colorPalette = 'catpuccin'
+
